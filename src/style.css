@@ -1,3 +1,9 @@
 h3{
     text-align: center;
 }
+.cord{
+    border-style: solid;
+    border-color:red;
+    border-width: 1px;
+    width: 250px;
+}
